@@ -4,10 +4,11 @@
 - 🌱 Estudando atualmente: javascript, html, css, sql, banco de dados e java.
 - 🤔 Estou em procura de um estágio para evoluir meus conhecimentos.
 - 📫 Contate-me no email: samuelpbrandao58@gmail.com
+
 <div align="center">
   <a href="https://github.com/SamuelPereiraBrandao">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=SamuelPereiraBrandao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelPereiraBrandao&layout=compact&langs_count=7&theme=dark"/>
+  <img height="140em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelPereiraBrandao&layout=compact&langs_count=7&theme=dark"/>
     
     
     
