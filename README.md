@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Samuel Pereira Brandão, Seja bem-vindo ao meu perfil! 👋
 
 - 🔭 Não estou trabalhando em nenhuma empresa atualmente.
-- 🌱 Estudando atualmente: javascript, html, css, sql, banco de dados e java.
+- 🌱 Estudando atualmente: javascript, html, css, Vue JS, sql, banco de dados e java.
 - 🤔 Estou em procura de um estágio para evoluir meus conhecimentos.
 - 📫 Contate-me no email: samuelpbrandao58@gmail.com
 
