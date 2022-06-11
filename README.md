@@ -1,4 +1,4 @@
-<div> <h1 style="text-align:center"> Olá, sou o Samuel Pereira, <br> Seja Bem vindo a meu repositório!</h1>
+<div style="background-color:#00BFFF;text-align:center"> <h1> Olá, sou o Samuel Pereira, <br> Seja Bem vindo a meu repositório!</h1>
 </div>
 <hr>
 - 🔭 Disponivel para vagas.
