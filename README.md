@@ -1,4 +1,4 @@
-<div style="text-align:center"> <h1> 
+<div style="align="center""> <h1> 
   Olá, sou o Samuel Pereira, <br> Seja bem vindo a minha página!</h1>
 </div>
 <hr>
