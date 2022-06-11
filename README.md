@@ -2,7 +2,7 @@
   Olá, sou o Samuel Pereira, <br> Seja bem vindo a minha página!</h1>
 </div>
 <hr>
-
+<h1 align="center"> Desenvolvedor Full Stack <h1>
 - 🔭 Disponivel para vagas.
 - 🌱 Atualmente estou aprendendo VueJS e node.
 - 🤔 Estou em procura de um estágio para evoluir meus conhecimentos.
