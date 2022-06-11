@@ -1,4 +1,6 @@
 ### Olá, Eu sou o Samuel Pereira Brandão, Seja bem-vindo ao meu perfil! 👋
+<div> <h1> Olá, sou o Samuel Pereira, <br> Seja Bem vindo a meu repositório!</h1>
+</div>
 <hr>
 - 🔭 Disponivel para vagas.
 - 🌱 Atualmente estou aprendendo VueJS e node.
