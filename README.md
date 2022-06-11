@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Samuel Pereira Brandão, Seja bem-vindo ao meu perfil! 👋
-
-- 🔭 Não estou trabalhando em nenhuma empresa atualmente.
-- 🌱 Estudando atualmente: VueJS e NodeJS
+<hr>
+- 🔭 Disponivel para vagas.
+- 🌱 Atualmente estou aprendendo VueJS e node.
 - 🤔 Estou em procura de um estágio para evoluir meus conhecimentos.
 - 📫 Contate-me no email: samuelpbrandao58@gmail.com
 
