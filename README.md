@@ -2,7 +2,8 @@
   Olá, sou o Samuel Pereira, <br> Seja bem vindo a minha página!</h1>
 </div>
 <hr>
-<em align="center" style="font-style:italic"> Desenvolvedor Full-Stack </em>
+
+<em align="center"> Desenvolvedor Full-Stack </em>
 
 
 - 🔭 Disponivel para vagas.
