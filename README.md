@@ -19,7 +19,7 @@
     
     
 </div>
-  <h3>⚡Tecnologias: </h3>
+  <h2>⚡Tecnologias: </h2>
   <div style="display: inline_block"><br>
   <img align="center" alt="Samuel-vue" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Samuel-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
@@ -33,9 +33,6 @@
 </div>
   
   <br>
-  
-  
-  Te
   <div>
     <img align="center" alt="Samuel-whats" height="30" width="120" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> - 11 98117-5506
 
