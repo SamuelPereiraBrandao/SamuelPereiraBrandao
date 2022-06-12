@@ -6,7 +6,7 @@
 <em > <p align="center">Desenvolvedor Full-Stack</p> </em>
 
 
-- 🔭 Disponivel para vagas.
+- 🔭 Disponível para vagas.
 - 🌱 Atualmente estou indo para o 5 semestre e estudando VueJS e node.
 - 🤔 Estou em procura de um estágio/vaga para evoluir meus conhecimentos.
 - 📫 Meu email: samuelpbrandao58@gmail.com
