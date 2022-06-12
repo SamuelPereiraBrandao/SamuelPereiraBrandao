@@ -3,6 +3,8 @@
 </div>
 <hr>
 <p align="center"> Desenvolvedor Full Stack </p>
+
+
 - 🔭 Disponivel para vagas.
 - 🌱 Atualmente estou aprendendo VueJS e node.
 - 🤔 Estou em procura de um estágio para evoluir meus conhecimentos.
