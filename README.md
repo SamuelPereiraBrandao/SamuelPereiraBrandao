@@ -36,13 +36,14 @@
 </div>
 
   <br>
-  <div>
-    <img align="center" alt="Samuel-whats" height="30" width="120" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> - 11 98117-5506
-  </div>
-  <br>
-  <div>
-      <a href="https://www.linkedin.com/in/samuel-pereira-brand%C3%A3o/" target="_blank"><img  align="center" alt="Samuel-whats" height="30" width="120" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
+<div>
+
+  <a href="https://api.whatsapp.com/send/?phone=%2B5511981175506&text&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href = "mailto:samuelpbrandao58@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+
+
   <br>
  
   ![Snake animation](https://github.com/SamuelPereiraBrandao/SamuelPereiraBrandao/blob/output/github-contribution-grid-snake.svg)
