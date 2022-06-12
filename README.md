@@ -35,6 +35,10 @@
 
 </div>
 
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,javascript,vuejs,php,java,python,sql)](https://skillicons.dev)
+
+
   <br>
 <div>
 💬 Quer entrar em contato?
