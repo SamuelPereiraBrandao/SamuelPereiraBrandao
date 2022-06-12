@@ -20,8 +20,6 @@
     
 </div>
   <h3>⚡Tecnologias: </h3>
-  
-  
   <div style="display: inline_block"><br>
   <img align="center" alt="Samuel-vue" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Samuel-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
