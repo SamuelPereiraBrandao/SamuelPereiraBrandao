@@ -24,19 +24,12 @@
   
   <div style="display: inline_block">
      <h2>⚡Tecnologias:</h2>
-  <img align="center" alt="Samuel-vue" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Samuel-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
-  <img align="center" alt="Samuel-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Samuel-css" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Samuel-java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Samuel-PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-  <img align="center" alt="Samuel-python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Samuel-oracle" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,javascript,vuejs,php,java,python,oracle)](https://skillicons.dev)
 
 </div>
 
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,javascript,vuejs,php,java,python,oracle)](https://skillicons.dev)
+
 
 
   <br>
