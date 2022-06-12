@@ -8,7 +8,7 @@
 
 - 🔭 Disponível para vagas.
 - 🌱 Atualmente estou indo para o 5 semestre e estudando VueJS e node.
-- 🤔 Estou em procura de um estágio/vaga para evoluir meus conhecimentos.
+- 🤔 Estou em procura de um estágio/vaga na areá de programação, para evoluir meus conhecimentos.
 - 📫 Meu email: samuelpbrandao58@gmail.com
 
 </div>
