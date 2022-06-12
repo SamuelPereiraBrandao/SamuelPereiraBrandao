@@ -42,8 +42,8 @@
 
   </div>
   <br>
-  <br>
-      <a href="https://www.linkedin.com/in/samuel-pereira-brand%C3%A3o/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+      <a href="https://www.linkedin.com/in/samuel-pereira-brand%C3%A3o/" target="_blank"><img  align="center" alt="Samuel-whats" height="30" width="120" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/SamuelPereiraBrandao/SamuelPereiraBrandao/blob/output/github-contribution-grid-snake.svg)
  
