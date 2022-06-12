@@ -22,6 +22,7 @@
 
 <div align="left">
 📈 Minhas Estatísticas
+  
   <br>
   
   | Minhas Estatísticas                                                                                                                                                            | Principais Linguagens                                                                                                                                                                     |
