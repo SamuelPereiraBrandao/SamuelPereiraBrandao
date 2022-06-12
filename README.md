@@ -20,21 +20,11 @@
   
   
 </div>
- 
-  
   <div style="display: inline_block">
-     <h2>⚡Tecnologias: 
-       [![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,javascript,vuejs,php,java,python,oracle)](https://skillicons.dev)
-  </h2>
+     <h2>⚡Tecnologias:</h2>
+  [![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,javascript,vuejs,php,java,python,oracle)](https://skillicons.dev)
   
-
-
 </div>
-
-
-
-
-
   <br>
 <div>
 💬 Quer entrar em contato?
