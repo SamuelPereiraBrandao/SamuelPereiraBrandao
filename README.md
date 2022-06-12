@@ -44,5 +44,5 @@
 
 
 
-  🐍 Alimentando minha cobrinha com bastante conhecimento!
+  🐍 Alimentando a minha cobrinha com bastante conhecimento!
   ![Snake animation](https://github.com/SamuelPereiraBrandao/SamuelPereiraBrandao/blob/output/github-contribution-grid-snake.svg)
