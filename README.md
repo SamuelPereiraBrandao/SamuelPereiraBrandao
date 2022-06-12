@@ -11,9 +11,9 @@
 - 📫 Meu email: samuelpbrandao58@gmail.com
 
 <div align="left">
-  <a href="https://github.com/SamuelPereiraBrandao">
-  <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=SamuelPereiraBrandao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelPereiraBrandao&layout=compact&langs_count=7&theme=dark"/>
+  | Minhas Estatísticas                                                                                                                                                            | Principais Linguagens                                                                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=SamuelPereiraBrandao&show_icons=true&hide_border=true&count_private=true&theme=jolly) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelPereiraBrandao&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact) |
 
 </div>
  
@@ -30,16 +30,7 @@
   <img align="center" alt="Samuel-oracle" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
 
 </div>
-  
-  
-  
-  | Minhas Estatísticas                                                                                                                                                            | Principais Linguagens                                                                                                                                                                     |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=SamuelPereiraBrandao&show_icons=true&hide_border=true&count_private=true&theme=jolly) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelPereiraBrandao&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact) |
 
-  
-  
-  
   <br>
   <div>
     <img align="center" alt="Samuel-whats" height="30" width="120" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> - 11 98117-5506
