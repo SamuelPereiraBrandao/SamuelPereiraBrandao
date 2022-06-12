@@ -21,7 +21,7 @@
 </div>
 
 <div align="left">
-📈 Minhas Estatísticas
+📈 Estatísticas:
 
   
   | Minhas Estatísticas                                                                                                                                                            | Principais Linguagens                                                                                                                                                                     |
