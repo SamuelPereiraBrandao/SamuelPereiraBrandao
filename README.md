@@ -16,7 +16,7 @@
      <h2>⚡Tecnologias:</h2>
   
   
-  [![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,javascript,vuejs,php,java,python,oracle)](https://skillicons.dev)
+  [![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,javascript,vuejs,sass,php,java,python,oracle)](https://skillicons.dev)
   
 </div>
 
