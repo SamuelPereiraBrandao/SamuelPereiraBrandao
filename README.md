@@ -3,7 +3,7 @@
 </div>
 <hr>
 
-<em > <p align="center">Desenvolvedor Full-Stack</p> </em>
+<em > <p align="center">Desenvolvedor Front-End</p> </em>
 
 
 - 🔭 Disponível para vagas.
