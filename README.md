@@ -43,8 +43,8 @@
 </div>
 
 
-
-  🐍 Alimentando a minha cobrinha com bastante conhecimento!
+<em > <p align="center">🐍 Alimentando a minha cobrinha com bastante conhecimento!</p> </em>
+  
   ![Snake animation](https://github.com/SamuelPereiraBrandao/SamuelPereiraBrandao/blob/output/github-contribution-grid-snake.svg)
   
   
