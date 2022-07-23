@@ -6,6 +6,7 @@
 <em > <p align="center">Desenvolvedor Front-End</p> </em>
 
 
+
 - 🔭 Disponível para vagas.
 - 🌱 Atualmente estou indo para o 5 semestre.
 - 🤔 Estou em procura de um estágio/vaga na areá de programação.
