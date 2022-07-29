@@ -9,7 +9,7 @@
 
 
 - 🔭 Disponível para vagas.
-- 🌱 Atualmente estou indo para o 5 semestre.
+- 🌱 Atualmente estou indo para o 5 semestre de ADS.
 - 🤔 Estou em procura de um estágio/vaga na areá de programação.
 - 📫 Meu email: samuelpbrandao58@gmail.com
 
