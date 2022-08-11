@@ -2,6 +2,7 @@
   Olá, sou o Samuel Pereira,  <br> Seja bem vindo a minha página!</h1>
 </div>
 <hr>
+
 <em > <p align="center">Desenvolvedor Front-End</p> </em>
 - 🔭 Disponível para vagas.
 - 🌱 Atualmente estou indo para o 5 semestre de ADS.
