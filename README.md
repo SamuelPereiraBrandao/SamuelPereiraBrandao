@@ -4,7 +4,6 @@
 <hr>
 
 <em > <p align="center">Desenvolvedor Front-End</p> </em>
-- 🔭 Disponível para vagas.
 - 🌱 Atualmente estou no 5 semestre de ADS.
 - 📫 Meu email: samuelpbrandao58@gmail.com
 
