@@ -1,5 +1,5 @@
 <div align="center"> <h1> 
-  Olá, sou o Samuel Pereira,  <br> Seja bem vindo a minha página!</h1>
+  Olá, sou o Samuel Pereira,  <br>  Seja bem vindo a minha página! </h1>
 </div>
 <hr>
 
