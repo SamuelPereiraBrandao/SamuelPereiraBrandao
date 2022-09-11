@@ -2,7 +2,6 @@
   Olá, sou o Samuel Pereira,  <br>  Seja bem vindo a minha página! </h1>
 </div>
 <hr>
-
 <em > <p align="center">Desenvolvedor Front-End</p> </em>
 - 🌱 Atualmente estou no 5 semestre de ADS.
 - 📫 Meu email: samuelpbrandao58@gmail.com
