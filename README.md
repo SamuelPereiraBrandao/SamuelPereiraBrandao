@@ -13,7 +13,7 @@
      <h2>⚡Tecnologias:</h2>
   
   
-  [![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,javascript,vuejs,sass,bootstrap,mysql,nuxt, tailwind )](https://skillicons.dev)
+  [![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,javascript,vuejs,sass,bootstrap,tailwind,mysql,nuxt )](https://skillicons.dev)
   
 </div>
 
