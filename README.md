@@ -31,7 +31,7 @@
 </div>
 
 
-<em > <p align="center">🐍 Alimentando a minha cobrinha com bastante conhecimento!</p> </em>
+<em > <p align="center">🐍 Alimentando com bastante conhecimento!</p> </em>
   
   ![Snake animation](https://github.com/SamuelPereiraBrandao/SamuelPereiraBrandao/blob/output/github-contribution-grid-snake.svg)
   
