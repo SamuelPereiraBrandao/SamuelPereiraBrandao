@@ -11,6 +11,7 @@
 - 📫 Meu email: samuelpbrandao58@gmail.com
 
 </div>
+
   <div style="display: inline_block">
      <h2>⚡Tecnologias:</h2>
   
