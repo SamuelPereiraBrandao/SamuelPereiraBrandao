@@ -14,7 +14,7 @@
      <h2>⚡Tecnologias:</h2>
   
   
-  [![Minhas Habilidades](https://skillicons.dev/icons?i=vuejs,laravel,typescript,tailwind,php,mysql )](https://skillicons.dev)
+  [![Minhas Habilidades](https://skillicons.dev/icons?i=vuejs,laravel,typescript,tailwind,php,mysql,post-man )](https://skillicons.dev)
   
 </div>
 
